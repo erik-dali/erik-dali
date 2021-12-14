@@ -1,9 +1,5 @@
 ### Hi there 👋
-Coming Soon!
-<!--
-**erik-dali/erik-dali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+#### Coming Soon!
 
 - 🔭 I’m currently working on quant finance
 - 🌱 I’m currently learning AWS, deep learning, and algorithms
@@ -13,4 +9,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: twitter
 - 😄 Pronouns: ...
 - ⚡ Fun fact: :)
--->
