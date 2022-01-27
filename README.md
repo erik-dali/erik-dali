@@ -1,11 +1,7 @@
 ### Hi there 👋
-#### Coming Soon!
+This page is a collection of some coding projects I've worked on. Currently there are 4 repositories on machine learning and scientific computing.
 
-- 🔭 I’m currently working on quant finance
-- 🌱 I’m currently learning AWS, deep learning, and algorithms
-- 👯 I’m looking to collaborate on quant finance
-- 🤔 I’m looking for help with nothing right now
-- 💬 Ask me about deep learning
-- 📫 How to reach me: twitter
-- 😄 Pronouns: ...
-- ⚡ Fun fact: :)
+- [Scientific Computing](https://github.com/erik-dali/Scientific-Computing) This is a sample of my scientific computing code in MatLab on probability distributions and nonlinear optimization. In the first part I define a couple functions for creating histograms and drawing random samples from probability distributions. The second part of this repository shows a couple of nonlinear optimization methods.
+- [3D Object Detection: LIDAR Semantic Segmentation](https://github.com/erik-dali/LIDAR-Semantic-Segmentation) This is a machine learning and computer vision project that works on LIDAR data. The objective is detection of 3D objects i.e. semantic segmentation of LIDAR point clouds. The dataset used here is [KITTI-360](http://www.cvlibs.net/datasets/kitti-360/) and the model is a modified [PointNet2](https://github.com/charlesq34/pointnet2). This is a Python based implementation using Pytorch and Open3D in a Jupyter Notebook.
+- [Object-Oriented Programming: Tetris](https://github.com/erik-dali/Tetris-Game-Python) This is a small project to showcase object-oriented programming in Python. No image assets are used for this project; everything is being rendered using a Tkinter wrapper library.
+- [Glomeruli-Detection](https://github.com/erik-dali/Glomeruli-Detection) This project demonstrates the effectiveness of Deep Atrous Convolution (DeepLab V3) for segmentation of glomeruli within kidney Whole Slide Imaging (WSI) at full resolution. This is a Python based implementation using Pytorch and TorchVision in a Jupyter Notebook.
